@@ -1,6 +1,7 @@
+Edit the following file
 runelite-client\src\main\java\net\runelite\client\ui\overlay\OverlayUtil.java
 
-Add these...
+Add or modify the functions below to make it work...
 
 public static void renderTextLocationMeteor(Graphics2D graphics, String txtString, int fontSize,
 										  int fontStyle, Color fontColor, Point canvasPoint, boolean shadows, int yOffset) {
